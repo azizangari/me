@@ -1,8 +1,8 @@
 body {
     line-height: 1.6;
-    font-size: 18px;
+    font-size: 16px;
     padding-top: 25px;
-    max-width: 400px;
+    max-width: 800px;
     margin: auto;
     left: 10;
     right: 10;
@@ -10,7 +10,7 @@ body {
 
 h1 {
     text-align: left;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 a {
