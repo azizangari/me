@@ -6,6 +6,8 @@ body {
     margin: auto;
     left: 10;
     right: 10;
+    background: linear-gradient(to bottom right, #0066cc, #00ccff);
+
 }
 
 h1 {
